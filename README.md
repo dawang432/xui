@@ -133,3 +133,6 @@ BBR加速安装
 
 至此两种教程结束
 ----------------------------
+##BBR2加速##
+
+wget --no-check-certificate -q -O bbr2.sh "https://github.com/yeyingorg/bbr2.sh/raw/master/bbr2.sh" && chmod +x bbr2.sh && bash bbr2.sh auto
